@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\ProjectLinx\\ProjectLinx.Domain\\ProjectLinx.Domain.csproj",
+      "projectUniqueName": "C:\\ProjectLinx - Git\\ProjectLinx\\ProjectLinx.Domain\\ProjectLinx.Domain.csproj",
       "projectName": "ProjectLinx.Domain",
-      "projectPath": "C:\\ProjectLinx\\ProjectLinx.Domain\\ProjectLinx.Domain.csproj",
+      "projectPath": "C:\\ProjectLinx - Git\\ProjectLinx\\ProjectLinx.Domain\\ProjectLinx.Domain.csproj",
       "packagesPath": "C:\\Users\\dioni\\.nuget\\packages\\",
-      "outputPath": "C:\\ProjectLinx\\ProjectLinx.Domain\\obj\\",
+      "outputPath": "C:\\ProjectLinx - Git\\ProjectLinx\\ProjectLinx.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
