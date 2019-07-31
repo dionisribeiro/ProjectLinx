@@ -1,0 +1,41 @@
+﻿.title-pages {
+    color: #333;
+    padding-bottom: 15px;
+    font-size: 25px;
+}
+
+#pesquisar-nome {
+    margin-bottom: 15px;
+}
+
+#table-height {
+    min-height: 340px;
+}
+
+#register-user {
+    padding-left: 73px;
+}
+
+#user-legend {
+    background-color: #800000;
+    display: inline-block;
+    height: 10px;
+    margin-top: 22px;
+    width: 12px;
+}
+
+#borda-tabela-usuario {
+    border-top: 2px solid #ddd;
+}
+
+#edit-hidden {
+    display: none;
+}
+
+#edit-pencil, #btn-remove {
+    color: #333333;
+}
+
+#excluir-usuario {
+    cursor: pointer;
+}

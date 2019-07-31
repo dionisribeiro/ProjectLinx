@@ -1,0 +1,97 @@
+﻿body {
+    background: linear-gradient(1.5grad,#eee,#4682B4,transparent 220%);
+}
+
+#footer {
+    position: absolute !important;
+    bottom: 0 !important;
+    background-color: rgba(0,0,0,.6) !important;
+    color: #eee !important;
+}
+
+.container-fluid {
+    min-height: calc(100vh - 40px);
+    width: 100%;
+}
+
+.container-login {
+    background-color: #fff;
+    position: absolute;
+    padding: 40px 40px;
+    top: 48%;
+    left: 50%;
+    margin-top: -202px;
+    margin-left: -210px;
+    min-height: 360px;
+    width: 420px;
+    box-shadow: #a29b9b 0px 0px 20px 0px;
+}
+
+.logo-login img {
+    max-width: 40px;
+    height: 40px;
+}
+
+.container-login .bold-titles {
+    font-size: 18px;
+}
+
+.esqueceu-usuario {
+    color: #0067b8;
+    float: left;
+    height: 40px;
+    width: 340px;
+}
+
+#esqueceu-senha a {
+    color: #0067b8;
+}
+
+#btn-login-entrar {
+    float: right;
+    width: 130px;
+}
+
+#btn-login-proximo {
+    float: right;
+    width: 130px;
+}
+
+.criar-conta {
+    float: left;
+}
+
+.div-validacao-email {
+    display: none;
+}
+
+.validacao-email {
+    color: #e81123;
+}
+
+div.container-senha-oculta-js {
+    display: none;
+}
+
+.container-login-js {
+    min-height: 229px;
+}
+
+.container-senha-js {
+    min-height: 209px;
+    position: relative;
+}
+
+.seta-login {
+    cursor: pointer;
+    padding-right: 3px;
+}
+
+.div-seta-login {
+    float: left;
+    position: absolute;
+}
+
+.getin-senha {
+    height: 25px;
+}

@@ -1,0 +1,15 @@
+﻿#save-user-registration {
+    margin-top: 25px;
+}
+
+#save-user-registration button {
+    width: 137px;
+}
+
+#no-padding {
+    padding-left: 0px;
+}
+
+#btn-delete {
+    float: right;
+}

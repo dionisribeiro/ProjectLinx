@@ -1,0 +1,9 @@
+C:\ProjectLinx\ProjectLinx.Domain\bin\Debug\netcoreapp2.1\ProjectLinx.Domain.deps.json
+C:\ProjectLinx\ProjectLinx.Domain\bin\Debug\netcoreapp2.1\ProjectLinx.Domain.dll
+C:\ProjectLinx\ProjectLinx.Domain\bin\Debug\netcoreapp2.1\ProjectLinx.Domain.pdb
+C:\ProjectLinx\ProjectLinx.Domain\obj\Debug\netcoreapp2.1\ProjectLinx.Domain.csprojAssemblyReference.cache
+C:\ProjectLinx\ProjectLinx.Domain\obj\Debug\netcoreapp2.1\ProjectLinx.Domain.csproj.CoreCompileInputs.cache
+C:\ProjectLinx\ProjectLinx.Domain\obj\Debug\netcoreapp2.1\ProjectLinx.Domain.AssemblyInfoInputs.cache
+C:\ProjectLinx\ProjectLinx.Domain\obj\Debug\netcoreapp2.1\ProjectLinx.Domain.AssemblyInfo.cs
+C:\ProjectLinx\ProjectLinx.Domain\obj\Debug\netcoreapp2.1\ProjectLinx.Domain.dll
+C:\ProjectLinx\ProjectLinx.Domain\obj\Debug\netcoreapp2.1\ProjectLinx.Domain.pdb

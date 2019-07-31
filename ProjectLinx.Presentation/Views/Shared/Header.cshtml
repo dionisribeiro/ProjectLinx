@@ -1,0 +1,30 @@
+﻿<div id="header">
+    <div class="jumbotron">
+        <nav class="container-fluid" id="hover-menu">
+            <div id="logo-header">
+                <a href="~/Usuario">
+                    <img src="~/images/LogoLinx.png" title="Início" />
+                </a>
+            </div>
+
+            <ul class="nav nav-tabs nav-pills nav-justified">
+                <li class="active"><a href="~/Usuario">Usuários</a></li>
+            </ul>
+        </nav>
+
+        <div id="header-group-name-close" class="row">
+            <form method="POST">
+                <div id="close-header" class="col-md-1">
+                    <a href="~/Login/Logout" class="btn btn-primary navbar-btn">Sair</a>
+                </div>
+                <div id="name-header" class="col-md-1.75">
+                    <span id="armazena-email">Olá, @ViewBag.nomeLogado</span>
+                </div>
+            </form>
+        </div>
+
+    </div>
+</div>
+
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script src="~/js/Header/Header.js"></script>

@@ -1,0 +1,96 @@
+﻿html, body {
+    height: 100%;
+}
+
+#wrap {
+    min-height: 100%;
+    padding-bottom: 40px;
+}
+
+#main {
+    overflow: auto;
+    padding-bottom: 40px; /* this needs to be bigger than footer height*/
+}
+
+.btn {
+    border-radius: 0;
+}
+
+.no-padding {
+    padding: 0;
+}
+
+.nav-tabs.nav-justified > li > a {
+    border-bottom: 0px !important;
+    border-radius: 4px !important;
+}
+
+#header .jumbotron {
+    padding: 15px 0 5px 0;
+    margin-bottom: 20px;
+}
+
+#header nav li:not(.active) a {
+    color: #333;
+}
+
+#header nav li .active {
+    cursor: pointer !important;
+}
+
+#header nav li {
+    width: 100px !important;
+}
+
+#name-header {
+    text-align: center;
+}
+
+.nav-tabs {
+    border: none;
+}
+
+#logo-header img {
+    float: left;
+    height: 55px;
+    width: 60px;
+    margin: -7px 20px 0 0;
+}
+
+#hover-menu li a:hover {
+    background-color: #204d74;
+    cursor: pointer;
+}
+
+#close-header {
+    float: right;
+    width: 82px;
+}
+
+#name-header {
+    float: right;
+    line-height: 50px;
+}
+
+#header-group-name-close {
+    margin: -80px 0 0 0;
+}
+
+.nav-tabs.nav-justified > li > a {
+    border: 0;
+}
+
+nav .dropdown-menu {
+    border-radius: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+    min-width: 175px;
+}
+
+nav .dropdown-menu > li > a {
+    padding: 3px 153px 3px 20px;
+}
+
+nav li:hover > .dropdown-menu {
+    display: block;
+}

@@ -1,0 +1,14 @@
+C:\ProjectLinx\ProjectLinx.Infra.Data\bin\Debug\netcoreapp2.1\ProjectLinx.Infra.Data.deps.json
+C:\ProjectLinx\ProjectLinx.Infra.Data\bin\Debug\netcoreapp2.1\ProjectLinx.Infra.Data.dll
+C:\ProjectLinx\ProjectLinx.Infra.Data\bin\Debug\netcoreapp2.1\ProjectLinx.Infra.Data.pdb
+C:\ProjectLinx\ProjectLinx.Infra.Data\bin\Debug\netcoreapp2.1\ProjectLinx.Application.dll
+C:\ProjectLinx\ProjectLinx.Infra.Data\bin\Debug\netcoreapp2.1\ProjectLinx.Domain.dll
+C:\ProjectLinx\ProjectLinx.Infra.Data\bin\Debug\netcoreapp2.1\ProjectLinx.Application.pdb
+C:\ProjectLinx\ProjectLinx.Infra.Data\bin\Debug\netcoreapp2.1\ProjectLinx.Domain.pdb
+C:\ProjectLinx\ProjectLinx.Infra.Data\obj\Debug\netcoreapp2.1\ProjectLinx.Infra.Data.csprojAssemblyReference.cache
+C:\ProjectLinx\ProjectLinx.Infra.Data\obj\Debug\netcoreapp2.1\ProjectLinx.Infra.Data.csproj.CoreCompileInputs.cache
+C:\ProjectLinx\ProjectLinx.Infra.Data\obj\Debug\netcoreapp2.1\ProjectLinx.Infra.Data.AssemblyInfoInputs.cache
+C:\ProjectLinx\ProjectLinx.Infra.Data\obj\Debug\netcoreapp2.1\ProjectLinx.Infra.Data.AssemblyInfo.cs
+C:\ProjectLinx\ProjectLinx.Infra.Data\obj\Debug\netcoreapp2.1\ProjectLinx.Infra.Data.csproj.CopyComplete
+C:\ProjectLinx\ProjectLinx.Infra.Data\obj\Debug\netcoreapp2.1\ProjectLinx.Infra.Data.dll
+C:\ProjectLinx\ProjectLinx.Infra.Data\obj\Debug\netcoreapp2.1\ProjectLinx.Infra.Data.pdb
